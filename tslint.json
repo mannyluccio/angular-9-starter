@@ -112,13 +112,13 @@
         }
       ]
     },
-    "variable-name": {
-      "options": [
-        "ban-keywords",
-        "check-format",
-        "allow-pascal-case"
-      ]
-    },
+//    "variable-name": {
+//      "options": [
+//        "ban-keywords",
+//        "check-format",
+//        "allow-pascal-case"
+//      ]
+//    },
     "whitespace": {
       "options": [
         "check-branch",
